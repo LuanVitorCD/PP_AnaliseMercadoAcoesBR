@@ -37,6 +37,9 @@ Decidimos utilizar a linguagem C para aproveitar os ensinamentos já passados em
 
 ---
 
+## Preparação dos Dados
+O dataset utilizado (`bovespa_stocks.csv`) está compactado no arquivo `dataset.zip`. Certifique-se de extrair o CSV para a pasta raiz do projeto antes de compilar e executar o código.
+
 ## Como Executar
 Para rodar a aplicação via terminal Linux (WSL), utilize os comandos de compilação abaixo:
 
